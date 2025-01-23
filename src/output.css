@@ -555,6 +555,9 @@
   .contents {
     display: contents;
   }
+  .flex {
+    display: flex;
+  }
   .inline-flex {
     display: inline-flex;
   }
@@ -563,6 +566,9 @@
   }
   .table {
     display: table;
+  }
+  .h-screen {
+    height: 100vh;
   }
   .w-\[320px\] {
     width: 320px;
@@ -575,6 +581,12 @@
   }
   .resize {
     resize: both;
+  }
+  .items-center {
+    align-items: center;
+  }
+  .justify-center {
+    justify-content: center;
   }
   .rounded-\[22px\] {
     border-radius: 22px;
