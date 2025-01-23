@@ -594,6 +594,9 @@
   .rounded-\[30px\] {
     border-radius: 30px;
   }
+  .rounded-xl {
+    border-radius: var(--radius-xl);
+  }
   .border {
     border-style: var(--tw-border-style);
     border-width: 1px;
