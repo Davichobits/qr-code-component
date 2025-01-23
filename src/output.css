@@ -591,6 +591,9 @@
   .rounded-\[22px\] {
     border-radius: 22px;
   }
+  .rounded-\[30px\] {
+    border-radius: 30px;
+  }
   .border {
     border-style: var(--tw-border-style);
     border-width: 1px;
